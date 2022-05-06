@@ -1,0 +1,8 @@
+1for new project take clone
+git clone httpsurl
+after doing changes stage it
+2.git add .
+add to comit
+3.git commit -a -m "commit msg"
+push changes to branch (upload on github to write below line of code)
+4.git push origin master
